@@ -1,4 +1,4 @@
-const loopLimit = 1e9;
+const loopLimit = 1e10;
 module.exports = {
     simulateSync: function(){
         console.log('Comenzando bloqueo simulado...');
